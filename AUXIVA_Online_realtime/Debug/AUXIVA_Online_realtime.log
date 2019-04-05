@@ -1,0 +1,53 @@
+﻿  tools.cpp
+  stft.cpp
+  sigproc.cpp
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\sigproc.cpp(251): warning C4838: 'unsigned long'에서 'long'(으)로의 변환에는 축소 변환이 필요합니다.
+  ProcBuffers.cpp
+  main.cpp
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\main.cpp(54): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  AUXIVA_Online.cpp
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\auxiva_online.cpp(243): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  asiodrivers.cpp
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asiodrivers.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'CodeFragments.hpp': No such file or directory
+  asio.cpp
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(19): warning C4081: '식별자'이(가) 있어야 하는데 'export'이(가) 있습니다.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(47): error C2732: 링크 사양이 'ASIOInit'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(46): note: 'ASIOInit' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(98): error C2732: 링크 사양이 'ASIOExit'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(97): note: 'ASIOExit' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(112): error C2732: 링크 사양이 'ASIOStart'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(111): note: 'ASIOStart' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(119): error C2732: 링크 사양이 'ASIOStop'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(118): note: 'ASIOStop' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(126): error C2732: 링크 사양이 'ASIOGetChannels'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(125): note: 'ASIOGetChannels' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(136): error C2732: 링크 사양이 'ASIOGetLatencies'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(135): note: 'ASIOGetLatencies' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(146): error C2732: 링크 사양이 'ASIOGetBufferSize'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(145): note: 'ASIOGetBufferSize' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(156): error C2732: 링크 사양이 'ASIOCanSampleRate'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(155): note: 'ASIOCanSampleRate' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(163): error C2732: 링크 사양이 'ASIOGetSampleRate'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(162): note: 'ASIOGetSampleRate' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(170): error C2732: 링크 사양이 'ASIOSetSampleRate'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(169): note: 'ASIOSetSampleRate' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(177): error C2732: 링크 사양이 'ASIOGetClockSources'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(176): note: 'ASIOGetClockSources' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(187): error C2732: 링크 사양이 'ASIOSetClockSource'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(186): note: 'ASIOSetClockSource' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(194): error C2732: 링크 사양이 'ASIOGetSamplePosition'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(193): note: 'ASIOGetSamplePosition' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(201): error C2732: 링크 사양이 'ASIOGetChannelInfo'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(200): note: 'ASIOGetChannelInfo' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(214): error C2732: 링크 사양이 'ASIOCreateBuffers'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(212): note: 'ASIOCreateBuffers' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(226): error C2732: 링크 사양이 'ASIODisposeBuffers'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(225): note: 'ASIODisposeBuffers' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(233): error C2732: 링크 사양이 'ASIOControlPanel'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(232): note: 'ASIOControlPanel' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(240): error C2732: 링크 사양이 'ASIOFuture'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(239): note: 'ASIOFuture' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(247): error C2732: 링크 사양이 'ASIOOutputReady'에 대한 초기 사양과 모순됩니다.
+  d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(246): note: 'ASIOOutputReady' 선언을 참조하십시오.
+d:\projects\ai\code\auxiva_online_realtime\auxiva_online_realtime\auxiva_online_realtime\asio.cpp(255): warning C4081: '식별자'이(가) 있어야 하는데 'export'이(가) 있습니다.
+  코드를 생성하고 있습니다...
